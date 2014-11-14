@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SI-20103</Machine>
+    <WindowsUser>dzimpfer</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>79801edc-8161-4880-9b5a-40150fc710c8</PackageIdentityName>
+    <RegisteredManifestChecksum>B9A6D7C67B609361A9EA1F3EE75435A1A0CCAE1EA402B07226926A32FACAA1A6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>79801edc-8161-4880-9b5a-40150fc710c8_1.0.0.0_neutral__rrh4y2tywz6pp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>79801edc-8161-4880-9b5a-40150fc710c8_rrh4y2tywz6pp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>79801edc-8161-4880-9b5a-40150fc710c8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dzimpfer</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-14T23:32:54.561</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe">
+      <PackagePath>ConnectFour.exe</PackagePath>
+      <Modified>2014-11-14T23:35:33.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-11-14T23:30:03.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-14T20:25:53.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+      <Modified>2014-11-14T23:35:33.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-14T23:35:33.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-14T23:32:54.438</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
