@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe">
       <PackagePath>ConnectFour.exe</PackagePath>
-      <Modified>2014-11-20T23:10:13.754</Modified>
+      <Modified>2014-11-20T23:34:21.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
@@ -59,7 +59,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-11-20T22:20:59.287</Modified>
+      <Modified>2014-11-20T23:34:21.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

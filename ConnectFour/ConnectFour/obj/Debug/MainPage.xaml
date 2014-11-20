@@ -22,11 +22,11 @@
 
     <Page.BottomAppBar>
         <CommandBar IsOpen="True"><!--Remove IsOpen before submitting-->
-            <AppBarButton Label="Change This Label" Icon="Refresh"/>
+            <AppBarButton Label="Highscores" Icon="OutlineStar"/>
             <AppBarButton x:ConnectionId='0' Label="About" Icon="Help"                            />
 
             <CommandBar.SecondaryCommands>
-                <AppBarButton Label="Change This Label" Icon="Edit"/>
+                <AppBarButton Label="Edit Player" Icon="Edit"/>
                 <AppBarButton Label="Change This Label" Icon="Remove"/>
                 <AppBarButton Label="Change This Label" Icon="Add"/>
             </CommandBar.SecondaryCommands>
