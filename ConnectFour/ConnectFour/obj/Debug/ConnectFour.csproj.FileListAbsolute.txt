@@ -34,3 +34,39 @@ c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\
 c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\obj\Debug\AboutPage.g.cs
 c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\obj\Debug\AboutPage.xaml
 c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\obj\Debug\AboutPage.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\App.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\AboutPage.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\MainPage.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\resources.pri
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\AppxManifest.xml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.build.appxrecipe
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\App.g.i.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\App.g.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\AboutPage.g.i.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\AboutPage.g.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\MainPage.g.i.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\MainPage.g.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\App.xaml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\AboutPage.xaml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\MainPage.xaml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\App.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\AboutPage.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\MainPage.xbf
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\XamlSaveStateFile.xml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\priconfig.xml
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\priconfig.xml.intermediate
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\layout.resfiles
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\layout.resfiles.intermediate
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\resources.resfiles
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\resources.resfiles.intermediate
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\pri.resfiles
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\pri.resfiles.intermediate
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\qualifiers.txt
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\qualifiers.txt.intermediate
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\obj\Debug\ProjectArchitectures.txt

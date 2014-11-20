@@ -1,1 +1,1 @@
-c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\ConnectFour.csproj;neutral
+C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\ConnectFour.csproj;neutral

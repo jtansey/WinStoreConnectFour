@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="ConnectFour.exe" EntryPoint="ConnectFour.App">
-      <m2:VisualElements DisplayName="ConnectFour" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ConnectFour" ForegroundText="light" BackgroundColor="#464646">
+      <m2:VisualElements DisplayName="ConnectFour" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ConnectFour" ForegroundText="light" BackgroundColor="#1D1D1D">
         <m2:SplashScreen Image="Assets\SplashScreen.png" />
       </m2:VisualElements>
     </Application>

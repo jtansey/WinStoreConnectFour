@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SI-20103</Machine>
-    <WindowsUser>dzimpfer</WindowsUser>
+    <Machine>SI-20104</Machine>
+    <WindowsUser>jtansey</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>79801edc-8161-4880-9b5a-40150fc710c8</PackageIdentityName>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe">
       <PackagePath>ConnectFour.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\Logo.scale-100.png">
-      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\SplashScreen.scale-100.png">
-      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Assets\SplashScreen.scale-100.PNG">
+      <PackagePath>Assets\SplashScreen.scale-100.PNG</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\Common\ReadMe.txt">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\AboutPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\AboutPage.xbf">
       <PackagePath>AboutPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dzimpfer\documents\visual studio 2013\Projects\ConnectFour\ConnectFour\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
