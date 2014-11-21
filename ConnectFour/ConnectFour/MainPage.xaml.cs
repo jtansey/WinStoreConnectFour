@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConnectFour.Common;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -34,6 +35,8 @@ namespace ConnectFour
         public Color secondPlayerColor = Colors.Red;
         public int firstPlayerScore = 0;
         public int secondPlayerScore = 0;
+        public string[] topPlayers = { "One", "Two", "Three", "Four", "Five" };
+        public int[] topPlayerScores = { 5,4,3,2,1 };
         //public int[,] grid = { { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0 } };
         public int[,] grid = { { 0, 1, 2, 0, 1, 2 }, { 1, 0, 2, 2, 1, 0 }, { 2, 2, 1, 0, 0, 1 }, { 0, 1, 0, 2, 1, 2 }, { 0, 2, 2, 1, 0, 0 }, { 0, 2, 1, 2, 1, 0 }, { 1, 1, 2, 2, 0, 1 } };
         public MainPage()
@@ -53,13 +56,13 @@ namespace ConnectFour
                     border.BorderBrush = new SolidColorBrush(Colors.White);
                     border.BorderThickness = new Thickness(1, 1, 1, 1);
                     if (r == 0 && c == 0)
-                        border.CornerRadius = new CornerRadius(20,0,0,0);
-                    if(r == 0 && c == BOARD_WIDTH - 1)
-                        border.CornerRadius = new CornerRadius(0,20,0,0);
-                    if(r == BOARD_HEIGHT - 1 && c == 0)
-                        border.CornerRadius = new CornerRadius(0,0,0,20);
+                        border.CornerRadius = new CornerRadius(20, 0, 0, 0);
+                    if (r == 0 && c == BOARD_WIDTH - 1)
+                        border.CornerRadius = new CornerRadius(0, 20, 0, 0);
+                    if (r == BOARD_HEIGHT - 1 && c == 0)
+                        border.CornerRadius = new CornerRadius(0, 0, 0, 20);
                     if (r == BOARD_HEIGHT - 1 && c == BOARD_WIDTH - 1)
-                        border.CornerRadius = new CornerRadius(0,0,20,0);
+                        border.CornerRadius = new CornerRadius(0, 0, 20, 0);
 
                     if (c == 0)
                         border.BorderThickness = new Thickness(2, 1, 1, 1);
@@ -122,6 +125,21 @@ namespace ConnectFour
 
             secondPlayerNameTextBlock.Text = secondPlayerName + " Wins:  ";
             secondPlayerScoreTextBlock.Text = secondPlayerScore.ToString();
+
+            topScorerTextBlock1.Text = topPlayers[0] + ":";
+            topScoreTextBlock1.Text = "  " + topPlayerScores[0].ToString();
+
+            topScorerTextBlock2.Text = topPlayers[1] + ":";
+            topScoreTextBlock2.Text = "  " + topPlayerScores[1].ToString();
+
+            topScorerTextBlock3.Text = topPlayers[2] + ":";
+            topScoreTextBlock3.Text = "  " + topPlayerScores[2].ToString();
+
+            topScorerTextBlock4.Text = topPlayers[3] + ":";
+            topScoreTextBlock4.Text = "  " + topPlayerScores[3].ToString();
+
+            topScorerTextBlock5.Text = topPlayers[4] + ":";
+            topScoreTextBlock5.Text =  "  " + topPlayerScores[4].ToString();
         }
 
         private void DrawGrid()
@@ -161,6 +179,9 @@ namespace ConnectFour
                     grid[r, c] = 0;
                 }
             }
+
+            interactionTextBlock.Foreground = new SolidColorBrush(firstPlayerColor);
+            interactionTextBlock.Text = firstPlayerName + "'s Turn!";
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -177,11 +198,12 @@ namespace ConnectFour
         }
         private void makePlay(int column)
         {
-            testTextBlock.Text = column.ToString();
+            interactionTextBlock.Text = column.ToString();
 
-            if(grid[0,column] != 0)
+            if (grid[0, column] != 0)
             {
-                testTextBlock.Text = "Invalid Move";
+                interactionTextBlock.Foreground = new SolidColorBrush(Colors.Red);
+                interactionTextBlock.Text = "Invalid Move";
             }
             else
             {
@@ -189,10 +211,10 @@ namespace ConnectFour
                 {
                     if (grid[r, column] == 0)
                     {
-                        if(firstPlayerTurn)
+                        if (firstPlayerTurn)
                         {
                             grid[r, column] = 1;
-                            
+
                         }
                         if (!firstPlayerTurn)
                         {
@@ -204,6 +226,16 @@ namespace ConnectFour
                 }
                 firstPlayerTurn = !firstPlayerTurn;
                 DrawGrid();
+                if(firstPlayerTurn)
+                {
+                    interactionTextBlock.Foreground = new SolidColorBrush(firstPlayerColor);
+                    interactionTextBlock.Text = firstPlayerName + "'s Turn!";
+                }
+                else
+                {
+                    interactionTextBlock.Foreground = new SolidColorBrush(secondPlayerColor);
+                    interactionTextBlock.Text = secondPlayerName + "'s Turn!";
+                }
             }
         }
 

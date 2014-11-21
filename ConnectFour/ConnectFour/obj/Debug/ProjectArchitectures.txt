@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+C:\Users\dzimpfer\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\ConnectFour.csproj;neutral
+=======
 C:\Users\jtansey\Desktop\GitHub\WinStoreConnectFour\ConnectFour\ConnectFour\ConnectFour.csproj;neutral
+>>>>>>> origin/master
